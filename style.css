@@ -1,0 +1,49 @@
+.bor{
+    border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+  width:30%;
+}
+.padding{
+border: green solid 10px;
+  margin: 5px;
+  padding: 5px;
+  color: aqua;
+  width:40%;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+.footer{
+
+
+margin: 0 auto;
+
+}
+.head{
+  
+    padding: 1px;
+   
+    background: #755da3;
+    color: white;
+    font-size: 20px;
+ 
+}
+.body{
+  position: fixed;
+  width: 100%;
+  background-color:rgb(182, 182, 182);
+ height:100%;
+
+}
+
+.foot {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:rgb(65, 63, 65);
+  color: white;
+ 
+}
